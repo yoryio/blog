@@ -2,4 +2,4 @@
 
 - Vulnerabillity Intelligence
 - Exploit Development
-- APT Resarch
+- APT Research
