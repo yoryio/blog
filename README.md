@@ -1,2 +1,5 @@
-# blog
-Personal blog to post some interesting stuff...
+# Blog
+
+- Vulnerabillity Intelligence
+- Exploit Development
+- APT Resarch
