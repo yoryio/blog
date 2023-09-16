@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.yoryo.io/</loc>
-    <lastmod>2023-09-16T17:06:24-05:00</lastmod>
+    <lastmod>2023-09-16T18:29:24-05:00</lastmod>
+  </url><url>
+    <loc>https://blog.yoryo.io/posts/incident-response-lifecycle/</loc>
+    <lastmod>2023-09-16T18:29:24-05:00</lastmod>
   </url><url>
     <loc>https://blog.yoryo.io/posts/</loc>
-    <lastmod>2023-09-16T17:06:24-05:00</lastmod>
+    <lastmod>2023-09-16T18:29:24-05:00</lastmod>
   </url><url>
     <loc>https://blog.yoryo.io/posts/threat-intelligence-lifecycle/</loc>
     <lastmod>2023-09-16T17:06:24-05:00</lastmod>
