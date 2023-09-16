@@ -2,3 +2,6 @@ baseURL: "https://blog.yoryo.io/"
 languageCode: en-us
 title: Blog
 theme: PaperMod
+
+params:
+  defaultTheme: dark
