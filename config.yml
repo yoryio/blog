@@ -6,3 +6,6 @@ theme: PaperMod
 params:
   defaultTheme: dark
   disableThemeToggle: true
+  homeInfoParams:
+    Title: Hi, welcome to my blog! wave
+    Content: Threat intelligence, vulnerability research and exploit development... :)
