@@ -1,0 +1,4 @@
+baseURL: "https://yoryio.github.io/blog/"
+languageCode: en-us
+title: Blog
+theme: PaperMod
