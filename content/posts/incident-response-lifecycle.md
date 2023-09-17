@@ -55,9 +55,7 @@ Unlike _Containment_, the actions in this stage are intended to kick out definit
 
 ## Recovery
 
-With the strong actions taken in the previous stage, now is the time to go back to a non-incident state.
-
-Also here we work with a lot of teams of the organization, both security and non-security teams to return to business as usual.
+With the strong actions taken in the previous stage, now is the time to go back to a non-incident state. Also here we work with a lot of teams of the organization, both security and non-security teams to return to business as usual.
 
 ## Lessons Learned
 
