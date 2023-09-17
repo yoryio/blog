@@ -7,5 +7,5 @@ params:
   defaultTheme: dark
   disableThemeToggle: true
   homeInfoParams:
-    Title: Hi, welcome to my blog! wave
+    Title: Hi, welcome to my blog!
     Content: Threat intelligence, vulnerability research and exploit development... :)
