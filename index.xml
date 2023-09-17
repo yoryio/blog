@@ -2,42 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blog</title>
-    <link>https://blog.yoryo.io/</link>
+    <link>https://yoryio.github.io/blog/</link>
     <description>Recent content on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Sep 2023 18:29:24 -0500</lastBuildDate><atom:link href="https://blog.yoryo.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Incident Response Lifecycle</title>
-      <link>https://blog.yoryo.io/posts/incident-response-lifecycle/</link>
-      <pubDate>Sat, 16 Sep 2023 18:29:24 -0500</pubDate>
-      
-      <guid>https://blog.yoryo.io/posts/incident-response-lifecycle/</guid>
-      <description>Is made up of the major steps taken in intrusion detection and response with the goal to be agnostic to type of attack, it means that the cycle can be adapted to any scenario.
-Preparation Before trying to understand the adversary is necessary to organizations to understand themselves, with this we can assess if we are giving the opportunity to the adversary and help understand if we fall in the intentions or objectives of this adversaries</description>
-    </item>
-    
-    <item>
-      <title>Intention, Capability and Opportunity</title>
-      <link>https://blog.yoryo.io/posts/intention-capability-opportunity/</link>
-      <pubDate>Sat, 16 Sep 2023 18:29:24 -0500</pubDate>
-      
-      <guid>https://blog.yoryo.io/posts/intention-capability-opportunity/</guid>
-      <description>Gartner definition of Cyber Threat Intelligence
-&amp;ldquo;Evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging menace or hazard to assets that can be used to inform decisions regarding the subject’s response to that menace or hazard&amp;rdquo;
-In order to exist a threat, needs to be a combination between three main concepts:
-Intention, what the adversary wants from our organization. Capability, how the adversary can damage our organization Opportunity, how the adversary can gain access to our organization This questions must be answered first with yes or no.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 16 Sep 2023 17:06:24 -0500</lastBuildDate><atom:link href="https://yoryio.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Threat Intelligence Lifecycle</title>
-      <link>https://blog.yoryo.io/posts/threat-intelligence-lifecycle/</link>
+      <link>https://yoryio.github.io/blog/posts/threat-intelligence-lifecycle/</link>
       <pubDate>Sat, 16 Sep 2023 17:06:24 -0500</pubDate>
       
-      <guid>https://blog.yoryo.io/posts/threat-intelligence-lifecycle/</guid>
-      <description>If we skip entire processes of the cycle, we can be at risk of having more questions and useless information. We need to identify and recognize the importance of each process, beginning with:
-Direction, where the requirements and questions are established to be solved by the intelligence analysts.
-Collection, where the data necessary to answer the requirements and questions is gathered. Always document the source where the data is collected. Also this a process, so you can have rounds of collection.</description>
+      <guid>https://yoryio.github.io/blog/posts/threat-intelligence-lifecycle/</guid>
+      <description>Planification Collection Process Analysis Dissemintation Feedback </description>
     </item>
     
   </channel>
