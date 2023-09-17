@@ -18,6 +18,18 @@ Preparation Before trying to understand the adversary is necessary to organizati
     </item>
     
     <item>
+      <title>Intention, Capability and Opportunity</title>
+      <link>https://blog.yoryo.io/posts/intention-capability-opportunity/</link>
+      <pubDate>Sat, 16 Sep 2023 18:29:24 -0500</pubDate>
+      
+      <guid>https://blog.yoryo.io/posts/intention-capability-opportunity/</guid>
+      <description>Gartner definition of Cyber Threat Intelligence
+&amp;ldquo;Evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging menace or hazard to assets that can be used to inform decisions regarding the subject’s response to that menace or hazard&amp;rdquo;
+In order to exist a threat, needs to be a combination between three main concepts:
+Intention, what the adversary wants from our organization. Capability, how the adversary can damage our organization Opportunity, how the adversary can gain access to our organization This questions must be answered first with yes or no.</description>
+    </item>
+    
+    <item>
       <title>Threat Intelligence Lifecycle</title>
       <link>https://blog.yoryo.io/posts/threat-intelligence-lifecycle/</link>
       <pubDate>Sat, 16 Sep 2023 17:06:24 -0500</pubDate>
