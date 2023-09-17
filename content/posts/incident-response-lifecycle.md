@@ -1,9 +1,6 @@
 ---
 title: Incident Response Lifecycle
 date: 2023-09-16T18:29:24-05:00
-cover:
-    image: "assets/incident.png"
-    responsiveImages: false
 ---
 Is made up of the major steps taken in intrusion detection and response with the goal to be _agnostic_ to type of attack, it means that the cycle can be adapted to any scenario.
 
