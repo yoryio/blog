@@ -6,7 +6,19 @@
     <description>Recent content on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Sep 2023 18:29:24 -0500</lastBuildDate><atom:link href="https://blog.yoryo.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Sep 2023 23:33:34 -0500</lastBuildDate><atom:link href="https://blog.yoryo.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Vulnerability</title>
+      <link>https://blog.yoryo.io/posts/the-vulnerability/</link>
+      <pubDate>Mon, 18 Sep 2023 23:33:34 -0500</pubDate>
+      
+      <guid>https://blog.yoryo.io/posts/the-vulnerability/</guid>
+      <description>In my daily job I had heard a lot the word vulnerability, but i wonder if we know the real definition about what it&amp;rsquo;s exactly a vulnerability.
+Today I&amp;rsquo;ll share my thoughts about we need to know and some important additional concepts.
+First, let&amp;rsquo;s start with a definition about what is a vulnerability:
+Vulnerability &amp;ldquo;A vulnerability is a weakness in software or hardware that can be exploited by an attacker to compromise the Confidentiality, Integrity and Availability of the information damaging systems and users.</description>
+    </item>
+    
     <item>
       <title>Incident Response Lifecycle</title>
       <link>https://blog.yoryo.io/posts/incident-response-lifecycle/</link>
@@ -36,8 +48,7 @@ Intention, what the adversary wants from our organization. Capability, how the a
       
       <guid>https://blog.yoryo.io/posts/threat-intelligence-lifecycle/</guid>
       <description>If we skip entire processes of the cycle, we can be at risk of having more questions and useless information. We need to identify and recognize the importance of each process, beginning with:
-Direction, where the requirements and questions are established to be solved by the intelligence analysts.
-Collection, where the data necessary to answer the requirements and questions is gathered. Always document the source where the data is collected. Also this a process, so you can have rounds of collection.</description>
+Direction, where the requirements and questions are established to be solved by the intelligence analysts. Collection, where the data necessary to answer the requirements and questions is gathered. Always document the source where the data is collected.</description>
     </item>
     
   </channel>
